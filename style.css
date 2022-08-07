@@ -1,0 +1,62 @@
+body{
+    background-color:#232323;
+    font-family:Trebuchet MS;
+    
+}
+#border{    
+    width: 60%;
+    height: 900px;
+    border-radius: 30px;
+    border: none;
+    background-color : #343434;
+    margin-left : 19%;
+    margin-top: 10px;
+    position: absolute;
+}
+#top{
+    width: 100%;
+    height:30%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: rgba(230, 156, 19, 0.767);
+}
+#bottom{
+    width: 100%;
+    height:70%;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: rgba(167, 113, 12, 0.767);
+}
+.bigfood{
+    width: 20%;
+    height: 221px;
+    margin: 0%;
+    padding: 0%;
+    border-radius: 18px;
+    margin-top: 53px;
+    margin-left: 8%;
+    background-color: rgb(194, 187, 187) ;
+    border-color: rgb(194, 187, 187);
+    border-width: 0px 10px 10px 0px;
+    cursor:pointer;
+}
+.smallfood{
+    width: 12%;
+    height: 221px;
+    margin: 0%;
+    padding: 0%;
+    border-radius: 18px;
+    margin-top: 53px;
+    margin-left: 6%;
+    background-color: rgb(194, 187, 187);
+    border-color: rgb(194, 187, 187);
+    border-width: 0px 10px 10px 0px;
+    cursor:pointer;
+
+}
+.bigfoodpic{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    width: 89%;
+}
